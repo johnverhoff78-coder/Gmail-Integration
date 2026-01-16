@@ -1,0 +1,18 @@
+# OAuth credentials - NEVER commit these
+credentials.json
+token.json
+token-*.json
+
+# Dependencies
+node_modules/
+
+# Export data
+exports/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db

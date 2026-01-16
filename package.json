@@ -1,0 +1,10 @@
+{
+  "name": "gmail-search",
+  "version": "1.0.0",
+  "description": "Gmail search for Claude Code",
+  "main": "gmail-search.js",
+  "dependencies": {
+    "googleapis": "^140.0.0",
+    "open": "^10.0.0"
+  }
+}
